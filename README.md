@@ -1,15 +1,12 @@
 # A03
 
-Git:
-For different IDE you will need to have Git in order to push or pull code on GitHub. Git is the most commonly used version control system. Git lets you track the changes you make to files, so therefore you will have a record of what has been done, and you can revert to specific versions should you ever need to. 
+Git - For different IDE you will need to have Git in order to push or pull code on GitHub. Git is the most commonly used version control system. Git lets you track the changes you make to files, so therefore you will have a record of what has been done, and you can revert to specific versions should you ever need to. 
 https://www.nobledesktop.com/blog/what-is-git-and-why-should-you-use-it
  
-GitHub:
-Github is a code hosting platform for version control and collaboration. It will let you and others work together on any projects from anywhere. As a software Engineer it helps the team to work more efficiently with GitHub because with a click of a bit you can send code to your team. 
+GitHub - Github is a code hosting platform for version control and collaboration. It will let you and others work together on any projects from anywhere. As a software Engineer it helps the team to work more efficiently with GitHub because with a click of a bit you can send code to your team. 
 https://docs.github.com/en/get-started/quickstart/hello-world
  
-Webstorm:
-A webstorm is an IDE where you can code with JS and related technology. Like other IDE one unique thing about webstorm is that it is generally more efficient at refactoring and testing. 
+Webstorm - A webstorm is an IDE where you can code with JS and related technology. Like other IDE one unique thing about webstorm is that it is generally more efficient at refactoring and testing. 
 https://www.jetbrains.com/webstorm/
 
 
